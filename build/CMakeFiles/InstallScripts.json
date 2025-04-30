@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/mnt/d/docs/sem/cgv/proj/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

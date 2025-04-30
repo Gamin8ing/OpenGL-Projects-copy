@@ -1,0 +1,3 @@
+/mnt/d/docs/sem/cgv/proj/build/CMakeFiles/SimpleGame.dir
+/mnt/d/docs/sem/cgv/proj/build/CMakeFiles/edit_cache.dir
+/mnt/d/docs/sem/cgv/proj/build/CMakeFiles/rebuild_cache.dir
